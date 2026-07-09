@@ -7,12 +7,20 @@
          <titleStmt>
             <title>Tutorial: MEI encoding of Mary had a little lamb</title>
             <respStmt>
-              <persName role="encoder">Stefan Münnich</persName>
-              <persName role="encoder">David Weigl</persName>
+               <persName role="encoder">Stefan Münnich</persName>
+               <persName role="encoder">David Weigl</persName>
             </respStmt>
          </titleStmt>
-         <pubStmt />
+         <pubStmt/>
       </fileDesc>
+      <encodingDesc xml:id="ednyjx1">
+         <appInfo xml:id="atpsz48">
+            <application xml:id="apuepf01" startdate="2026-07-09T17:09:28" version="1.4.1" enddate="2026-07-09T17:09:28">
+               <name xml:id="n4ddx231">mei-friend</name>
+               <p xml:id="phpdw3t2">First edit by mei-friend 1.4.1.</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
    </meiHead>
    <music>
       <body>
@@ -29,12 +37,12 @@
                      <staff xml:id="s4s6dof" n="1">
                         <layer xml:id="lynr4h" n="1">
                            <chord xml:id="cozas9c" dots="1" dur="4">
-                              <note xml:id="nxozyd5" oct="4" pname="e" />
-                              <note xml:id="nbuhrvr" oct="4" pname="c" />
+                              <note xml:id="nxozyd5" oct="5" pname="e"/>
+                              <note xml:id="nbuhrvr" oct="5" pname="c"/>
                            </chord>
-                           <note xml:id="n1m8uth" dur="8" oct="4" pname="d" />
-                           <note xml:id="n2ezskd" dur="4" oct="4" pname="c" />
-                           <note xml:id="ncbmrh4" dur="4" oct="4" pname="d" />
+                           <note xml:id="n1m8uth" dur="8" oct="5" pname="d"/>
+                           <note xml:id="n2ezskd" dur="4" oct="5" pname="c"/>
+                           <note xml:id="ncbmrh4" dur="4" oct="5" pname="d"/>
                         </layer>
                      </staff>
                      <staff xml:id="so6jbpx" n="2">
@@ -52,16 +60,16 @@
                      <staff xml:id="sw74xjm" n="1">
                         <layer xml:id="lz5x4vp" n="1">
                            <chord xml:id="c70ljjr" dur="4">
-                              <note xml:id="n2o4ou3" oct="4" pname="e" />
-                              <note xml:id="njhicvx" oct="4" pname="c" />
+                              <note xml:id="n2o4ou3" oct="5" pname="e"/>
+                              <note xml:id="njhicvx" oct="5" pname="c"/>
                            </chord>
                            <chord xml:id="c9nee3q" dur="4">
-                              <note xml:id="nmpwa2g" oct="4" pname="e" />
-                              <note xml:id="n6xqbf1" oct="4" pname="c" />
+                              <note xml:id="nmpwa2g" oct="5" pname="e"/>
+                              <note xml:id="n6xqbf1" oct="5" pname="c"/>
                            </chord>
                            <chord xml:id="coi42ch" dur="2">
-                              <note xml:id="nmqhcvl" oct="4" pname="e" />
-                              <note xml:id="nayrk4c" oct="4" pname="c" />
+                              <note xml:id="nmqhcvl" oct="5" pname="e"/>
+                              <note xml:id="nayrk4c" oct="5" pname="c"/>
                            </chord>
                         </layer>
                      </staff>
@@ -78,16 +86,16 @@
                      <staff xml:id="szi5s63" n="1">
                         <layer xml:id="lvmyae7" n="1">
                            <chord xml:id="cbbi3dq" dur="4">
-                              <note xml:id="njvtvf3" oct="4" pname="d" />
-                              <note xml:id="nda8uom" oct="3" pname="b" />
+                              <note xml:id="njvtvf3" oct="5" pname="d"/>
+                              <note xml:id="nda8uom" oct="4" pname="b"/>
                            </chord>
                            <chord xml:id="c776k4h" dur="4">
-                              <note xml:id="ndnt21b" oct="4" pname="d" />
-                              <note xml:id="nz5t3u2" oct="3" pname="b" />
+                              <note xml:id="ndnt21b" oct="5" pname="d"/>
+                              <note xml:id="nz5t3u2" oct="4" pname="b"/>
                            </chord>
                            <chord xml:id="chu1qel" dur="2">
-                              <note xml:id="nb7a14q" oct="4" pname="d" />
-                              <note xml:id="niw0o6s" oct="3" pname="b" />
+                              <note xml:id="nb7a14q" oct="5" pname="d"/>
+                              <note xml:id="niw0o6s" oct="4" pname="b"/>
                            </chord>
                         </layer>
                      </staff>
@@ -106,16 +114,16 @@
                      <staff xml:id="s75o3ls" n="1">
                         <layer xml:id="lgn8boq" n="1">
                            <chord xml:id="c9bm1lf" dur="4">
-                              <note xml:id="nj99sxn" oct="4" pname="e" />
-                              <note xml:id="nyin6lc" oct="4" pname="c" />
+                              <note xml:id="nj99sxn" oct="5" pname="e"/>
+                              <note xml:id="nyin6lc" oct="5" pname="c"/>
                            </chord>
                            <chord xml:id="cuzi260" dur="4">
-                              <note xml:id="nq5wgjd" oct="4" pname="e" />
-                              <note xml:id="n9jf19j" oct="4" pname="g" />
+                              <note xml:id="nq5wgjd" oct="5" pname="e"/>
+                              <note xml:id="n9jf19j" oct="5" pname="g"/>
                            </chord>
                            <chord xml:id="ccpi4i0" dur="2">
-                              <note xml:id="nf0l44j" oct="4" pname="e" />
-                              <note xml:id="n9tm19f" oct="4" pname="g" />
+                              <note xml:id="nf0l44j" oct="5" pname="e"/>
+                              <note xml:id="n9tm19f" oct="5" pname="g"/>
                            </chord>
                         </layer>
                      </staff>
@@ -134,12 +142,12 @@
                      <staff xml:id="s1rknrn" n="1">
                         <layer xml:id="lkziquz" n="1">
                            <chord xml:id="crlvjyd" dots="1" dur="4">
-                              <note xml:id="n5wvl2o" oct="4" pname="e" />
-                              <note xml:id="n8sg8yr" oct="4" pname="c" />
+                              <note xml:id="n5wvl2o" oct="5" pname="e"/>
+                              <note xml:id="n8sg8yr" oct="5" pname="c"/>
                            </chord>
-                           <note xml:id="nipjizz" dur="8" oct="4" pname="d" />
-                           <note xml:id="ni14syp" dur="4" oct="4" pname="c" />
-                           <note xml:id="nciu3v3" dur="4" oct="4" pname="d" />
+                           <note xml:id="nipjizz" dur="8" oct="5" pname="d"/>
+                           <note xml:id="ni14syp" dur="4" oct="5" pname="c"/>
+                           <note xml:id="nciu3v3" dur="4" oct="5" pname="d"/>
                         </layer>
                      </staff>
                      <staff xml:id="swx6no4" n="2">
@@ -157,16 +165,16 @@
                      <staff xml:id="s9iv5np" n="1">
                         <layer xml:id="l6gcb3r" n="1">
                            <chord xml:id="cbddjgr" dur="4">
-                              <note xml:id="nhvcf07" oct="4" pname="e" />
-                              <note xml:id="ntlfcm4" oct="4" pname="c" />
+                              <note xml:id="nhvcf07" oct="5" pname="e"/>
+                              <note xml:id="ntlfcm4" oct="5" pname="c"/>
                            </chord>
                            <chord xml:id="c6fmfg2" dur="4">
-                              <note xml:id="necm2m6" oct="4" pname="e" />
-                              <note xml:id="nbcwc3i" oct="4" pname="c" />
+                              <note xml:id="necm2m6" oct="5" pname="e"/>
+                              <note xml:id="nbcwc3i" oct="5" pname="c"/>
                            </chord>
                            <chord xml:id="cklmho3" dur="2">
-                              <note xml:id="n4v8cib" oct="4" pname="e" />
-                              <note xml:id="nmqrc6d" oct="4" pname="c" />
+                              <note xml:id="n4v8cib" oct="5" pname="e"/>
+                              <note xml:id="nmqrc6d" oct="5" pname="c"/>
                            </chord>
                         </layer>
                      </staff>
@@ -183,18 +191,18 @@
                      <staff xml:id="s725vnn" n="1">
                         <layer xml:id="ljnkbe6" n="1">
                            <chord xml:id="c5tphk3" dur="4">
-                              <note xml:id="n77wp4k" oct="4" pname="d" />
-                              <note xml:id="n2awoq4" oct="3" pname="b" />
+                              <note xml:id="n77wp4k" oct="5" pname="d"/>
+                              <note xml:id="n2awoq4" oct="4" pname="b"/>
                            </chord>
                            <chord xml:id="clmrqj4" dur="4">
-                              <note xml:id="nhsmtpa" oct="4" pname="d" />
-                              <note xml:id="njqxpb" oct="3" pname="b" />
+                              <note xml:id="nhsmtpa" oct="5" pname="d"/>
+                              <note xml:id="njqxpb" oct="4" pname="b"/>
                            </chord>
                            <chord xml:id="c5oqbz8" dots="1" dur="4">
-                              <note xml:id="ncu6ioz" oct="4" pname="e" />
-                              <note xml:id="n6ghtzn" oct="4" pname="c" />
+                              <note xml:id="ncu6ioz" oct="5" pname="e"/>
+                              <note xml:id="n6ghtzn" oct="5" pname="c"/>
                            </chord>
-                           <note xml:id="nb2tk0e" dur="8" oct="4" pname="d" />
+                           <note xml:id="nb2tk0e" dur="8" oct="5" pname="d"/>
                         </layer>
                      </staff>
                      <staff xml:id="sa54lih" n="2">
@@ -211,7 +219,7 @@
                   <measure xml:id="mpsevzt" right="end" n="8">
                      <staff xml:id="sf7souu" n="1">
                         <layer xml:id="lhhp3vk" n="1">
-                           <note xml:id="ng9c87l" dots="1" dur="2" oct="4" pname="c" />
+                           <note xml:id="ng9c87l" dots="1" dur="2" oct="5" pname="c"/>
                            <rest xml:id="r90l3aj" dur="4" />
                         </layer>
                      </staff>
