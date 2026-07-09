@@ -15,7 +15,7 @@
       </fileDesc>
       <encodingDesc xml:id="ednyjx1">
          <appInfo xml:id="atpsz48">
-            <application xml:id="apuepf01" startdate="2026-07-09T17:09:28" version="1.4.1" enddate="2026-07-09T17:09:28">
+            <application xml:id="apuepf01" startdate="2026-07-09T17:09:28" version="1.4.1" enddate="2026-07-09T17:11:53">
                <name xml:id="n4ddx231">mei-friend</name>
                <p xml:id="phpdw3t2">First edit by mei-friend 1.4.1.</p>
             </application>
@@ -37,7 +37,7 @@
                      <staff xml:id="s4s6dof" n="1">
                         <layer xml:id="lynr4h" n="1">
                            <chord xml:id="cozas9c" dots="1" dur="4">
-                              <note xml:id="nxozyd5" oct="5" pname="e"/>
+                              <note xml:id="nxozyd5" oct="6" pname="e"/>
                               <note xml:id="nbuhrvr" oct="5" pname="c"/>
                            </chord>
                            <note xml:id="n1m8uth" dur="8" oct="5" pname="d"/>
